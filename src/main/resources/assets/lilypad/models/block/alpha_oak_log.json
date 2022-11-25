@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lilypad:blocks/alpha_oak_log-top",
+    "up": "lilypad:blocks/alpha_oak_log-top",
+    "north": "lilypad:blocks/alpha_oak_log-side",
+    "east": "lilypad:blocks/alpha_oak_log-side",
+    "south": "lilypad:blocks/alpha_oak_log-side",
+    "west": "lilypad:blocks/alpha_oak_log-side",
+    "particle": "lilypad:blocks/alpha_oak_log-top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "lilypad:blocks/fire_star",
+    "particle": "lilypad:blocks/fire_star"
+  }
+}

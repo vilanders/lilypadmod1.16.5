@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AlphaOakWood"
+      },
+      {
+        "value": "CUSTOM:AlphaOakLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "alphaoak_log",
+    "namespace": "forge"
+  }
+}

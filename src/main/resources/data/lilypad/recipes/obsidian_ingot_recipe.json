@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "lilypad:fire_essence"
+    }
+  ],
+  "result": {
+    "item": "lilypad:obsidian_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "lilypad:blocks/alpha_oak_planks",
+    "top": "lilypad:blocks/alpha_oak_planks",
+    "side": "lilypad:blocks/alpha_oak_planks"
+  }
+}

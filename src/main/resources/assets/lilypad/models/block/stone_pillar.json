@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lilypad:blocks/stone_pillar",
+    "particle": "lilypad:blocks/stone_pillar"
+  }
+}

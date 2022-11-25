@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "lilypad:blocks/alpha_dirt",
+    "top": "lilypad:blocks/alpha_grass-top",
+    "side": "lilypad:blocks/alpha_grass-side",
+    "overlay": "lilypad:blocks/alpha_grass-side",
+    "particle": "lilypad:blocks/alpha_dirt"
+  }
+}

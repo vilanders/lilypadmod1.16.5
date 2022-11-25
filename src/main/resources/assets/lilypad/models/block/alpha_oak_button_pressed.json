@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "lilypad:blocks/alpha_oak_planks"
+  }
+}

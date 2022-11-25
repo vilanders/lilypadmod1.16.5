@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "lilypad:alpha_oak_log"
+    },
+    "1": {
+      "item": "lilypad:alpha_oak_log"
+    },
+    "2": {
+      "item": "lilypad:alpha_oak_log"
+    },
+    "3": {
+      "item": "lilypad:alpha_oak_log"
+    }
+  },
+  "result": {
+    "item": "lilypad:alpha_oak_wood",
+    "count": 3
+  }
+}

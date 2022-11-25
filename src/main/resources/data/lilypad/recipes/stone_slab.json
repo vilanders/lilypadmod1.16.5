@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "lilypad:alpha_stone"
+    },
+    "1": {
+      "item": "lilypad:alpha_stone"
+    },
+    "2": {
+      "item": "lilypad:alpha_stone"
+    }
+  },
+  "result": {
+    "item": "lilypad:alpha_stone_slab",
+    "count": 6
+  }
+}

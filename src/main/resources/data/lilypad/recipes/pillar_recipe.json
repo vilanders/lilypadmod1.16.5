@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lilypad:alpha_stone"
+    },
+    {
+      "item": "lilypad:alpha_stone"
+    },
+    {
+      "item": "lilypad:alpha_stone"
+    },
+    {
+      "item": "lilypad:alpha_stone"
+    }
+  ],
+  "result": {
+    "item": "lilypad:stone_pillar",
+    "count": 4
+  }
+}

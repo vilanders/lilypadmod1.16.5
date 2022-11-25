@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "1": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "2": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "3": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "5": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "6": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "7": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "8": {
+      "item": "lilypad:alpha_cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

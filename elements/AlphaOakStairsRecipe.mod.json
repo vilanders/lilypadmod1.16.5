@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AlphaOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AlphaOakPlanks"
+      },
+      {
+        "value": "CUSTOM:AlphaOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AlphaOakPlanks"
+      },
+      {
+        "value": "CUSTOM:AlphaOakPlanks"
+      },
+      {
+        "value": "CUSTOM:AlphaOakPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AlphaOakStairs"
+    },
+    "name": "alpha_oak_stairs_recipe",
+    "namespace": "mod"
+  }
+}

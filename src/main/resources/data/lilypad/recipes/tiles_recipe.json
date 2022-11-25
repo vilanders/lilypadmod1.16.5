@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lilypad:blue_tile"
+    },
+    {
+      "item": "lilypad:yellow_tile"
+    },
+    {
+      "item": "lilypad:yellow_tile"
+    },
+    {
+      "item": "lilypad:blue_tile"
+    }
+  ],
+  "result": {
+    "item": "lilypad:tiles",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "norway2",
+    "name": "Music Disc",
+    "description": "Dev5 - Norway",
+    "creativeTab": {
+      "value": "CUSTOM:LilypadExtension"
+    },
+    "music": {
+      "value": "CUSTOM:norway"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

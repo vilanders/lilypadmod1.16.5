@@ -1,0 +1,30 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:AlphaGrass"
+      },
+      {
+        "value": "CUSTOM:AlphaDirt"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:AlphaGrass"
+      },
+      {
+        "value": "CUSTOM:AlphaDirt"
+      },
+      {
+        "value": "CUSTOM:AlphaGravel"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "enderman_holdable",
+    "namespace": "minecraft"
+  }
+}

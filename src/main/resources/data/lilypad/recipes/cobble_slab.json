@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "1": {
+      "item": "lilypad:alpha_cobblestone"
+    },
+    "2": {
+      "item": "lilypad:alpha_cobblestone"
+    }
+  },
+  "result": {
+    "item": "lilypad:alpha_cobblestone_slab",
+    "count": 6
+  }
+}

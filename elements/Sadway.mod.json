@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sadway2",
+    "name": "Music Disc",
+    "description": "Dev5 - Sadway",
+    "creativeTab": {
+      "value": "CUSTOM:LilypadExtension"
+    },
+    "music": {
+      "value": "CUSTOM:sadway"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

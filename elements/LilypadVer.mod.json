@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGHEST",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Minecraft Lilypad 1.0.16a",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Minecraft Lilypad 1.0.16a",
+          "x": -102,
+          "y": -37
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

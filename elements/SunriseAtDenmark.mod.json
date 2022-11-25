@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sunrise_at_denmark",
+    "name": "Music Disc",
+    "description": "Dev5 - Sunrise At Denmark",
+    "creativeTab": {
+      "value": "CUSTOM:LilypadExtension"
+    },
+    "music": {
+      "value": "CUSTOM:sunrise_at_denmark"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

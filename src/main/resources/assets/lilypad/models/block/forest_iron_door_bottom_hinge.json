@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "lilypad:blocks/alpha_iron_door-down",
+    "top": "lilypad:blocks/alpha_iron_door-up2"
+  }
+}

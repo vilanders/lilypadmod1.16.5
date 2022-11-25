@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "lilypad:obsidian_sword"
+  },
+  "addition": {
+    "item": "lilypad:flame_ingot"
+  },
+  "result": {
+    "item": "lilypad:flame_sword"
+  }
+}

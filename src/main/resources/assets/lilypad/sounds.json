@@ -1,0 +1,110 @@
+{
+  "suomalainen_kehtolaulu": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "lilypad:1-suomalainen_kehtolaulu-mono",
+        "stream": true
+      }
+    ]
+  },
+  "norway": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "lilypad:2-norway_mono",
+        "stream": true
+      }
+    ]
+  },
+  "sadway": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "lilypad:3-sadway_mono",
+        "stream": true
+      }
+    ]
+  },
+  "sunrise_at_denmark": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "lilypad:6-sunrise_at_denmark-mono",
+        "stream": true
+      }
+    ]
+  },
+  "factorial": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "lilypad:7-factorial-mono",
+        "stream": true
+      }
+    ]
+  },
+  "hidden_den": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "lilypad:8-hidden-den_mono",
+        "stream": true
+      }
+    ]
+  },
+  "lemuria": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "lilypad:10-lemuria_mono",
+        "stream": true
+      }
+    ]
+  },
+  "moon_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "lilypad:moon_2",
+        "stream": true
+      }
+    ]
+  },
+  "estonian_reliquary": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "lilypad:3-estonian_reliquary",
+        "stream": true
+      }
+    ]
+  },
+  "colossal.death": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "lilypad:giantdead",
+        "stream": false
+      }
+    ]
+  },
+  "colossal.ambient": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "lilypad:giantambient",
+        "stream": false
+      }
+    ]
+  },
+  "colossal.hurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "lilypad:gianthit1",
+        "stream": false
+      }
+    ]
+  }
+}

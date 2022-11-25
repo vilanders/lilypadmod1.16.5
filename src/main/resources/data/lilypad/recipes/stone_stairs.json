@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lilypad:alpha_stone"
+    },
+    "3": {
+      "item": "lilypad:alpha_stone"
+    },
+    "4": {
+      "item": "lilypad:alpha_stone"
+    },
+    "6": {
+      "item": "lilypad:alpha_stone"
+    },
+    "7": {
+      "item": "lilypad:alpha_stone"
+    },
+    "8": {
+      "item": "lilypad:alpha_stone"
+    }
+  },
+  "result": {
+    "item": "lilypad:alpha_stone_stairs",
+    "count": 4
+  }
+}

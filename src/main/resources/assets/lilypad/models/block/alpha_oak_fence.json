@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "lilypad:blocks/alpha_oak_planks",
+    "particle": "lilypad:blocks/alpha_oak_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lilypad:blocks/obsidian_5_33",
+    "up": "lilypad:blocks/obsidian_5_11",
+    "north": "lilypad:blocks/obsidian_5_22",
+    "east": "lilypad:blocks/obsidian_5_22",
+    "south": "lilypad:blocks/obsidian_5_22",
+    "west": "lilypad:blocks/obsidian_5_22",
+    "particle": "lilypad:blocks/obsidian_5_33"
+  }
+}

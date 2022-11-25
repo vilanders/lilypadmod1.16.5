@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lilypad:blocks/green_mojang_block",
+    "particle": "lilypad:blocks/green_mojang_block"
+  }
+}

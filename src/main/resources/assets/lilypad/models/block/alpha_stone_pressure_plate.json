@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "lilypad:blocks/alpha_stone"
+  }
+}

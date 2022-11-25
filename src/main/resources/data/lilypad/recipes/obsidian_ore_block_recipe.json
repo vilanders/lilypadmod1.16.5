@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "1": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "2": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "3": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "4": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "5": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "6": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "7": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "8": {
+      "item": "lilypad:obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "lilypad:obsidian_block",
+    "count": 1
+  }
+}

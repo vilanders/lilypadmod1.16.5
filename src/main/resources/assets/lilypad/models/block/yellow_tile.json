@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lilypad:blocks/yellow_tile",
+    "particle": "lilypad:blocks/yellow_tile"
+  }
+}

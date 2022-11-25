@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "lilypad:blocks/alpha_cobblestone",
+    "top": "lilypad:blocks/alpha_cobblestone",
+    "side": "lilypad:blocks/alpha_cobblestone"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "lilypad:blocks/dark_lilyan",
+    "particle": "lilypad:blocks/dark_lilyan"
+  }
+}

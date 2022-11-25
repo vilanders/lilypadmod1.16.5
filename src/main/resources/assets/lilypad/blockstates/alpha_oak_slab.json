@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lilypad:block/alpha_oak_slab"
+    },
+    "type=top": {
+      "model": "lilypad:block/alpha_oak_slab_top"
+    },
+    "type=double": {
+      "model": "lilypad:block/alpha_oak_slab_full"
+    }
+  }
+}

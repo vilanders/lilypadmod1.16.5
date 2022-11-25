@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "lilypad:alpha_stone"
+    },
+    {
+      "item": "lilypad:alpha_stone"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    }
+  ],
+  "result": {
+    "item": "lilypad:blue_tile",
+    "count": 2
+  }
+}

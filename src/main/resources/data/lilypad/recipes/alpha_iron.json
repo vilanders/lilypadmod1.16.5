@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "lilypad:alpha_iron_ore"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "1": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "2": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "3": {
+      "item": "lilypad:obsidian_ingot"
+    },
+    "5": {
+      "item": "lilypad:obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "lilypad:obsidian_armor_helmet",
+    "count": 1
+  }
+}

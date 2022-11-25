@@ -1,0 +1,23 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AlphaGrass"
+      },
+      {
+        "value": "CUSTOM:AlphaDirt"
+      },
+      {
+        "value": "CUSTOM:AlphaGravel"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "bamboo_plantable_on",
+    "namespace": "minecraft"
+  }
+}

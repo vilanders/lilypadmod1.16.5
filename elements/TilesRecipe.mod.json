@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlueTile"
+      },
+      {
+        "value": "CUSTOM:YellowTile"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:YellowTile"
+      },
+      {
+        "value": "CUSTOM:BlueTile"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Tiles"
+    },
+    "name": "tiles_recipe",
+    "namespace": "mod"
+  }
+}

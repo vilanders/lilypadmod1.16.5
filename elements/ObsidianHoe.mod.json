@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidian_8",
+    "customModelName": "Normal",
+    "name": "Obsidian Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LilypadExtension"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 8.5,
+    "attackSpeed": 4.0,
+    "enchantability": 13,
+    "damageVsEntity": 2.0,
+    "usageCount": 1831,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ObsidianIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
